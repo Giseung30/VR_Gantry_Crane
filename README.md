@@ -42,3 +42,57 @@
 ## ✔ 프로젝트 평가
 - 포크레인 같은 장비에 비해 상대적으로 접근성이 낮다고 생각될 수 있는 항만용 크레인 중장비에 대한 인식을 바꿀 수 있는 프로젝트이며, 평소 중장비에 관심이 있었으나 접하기가 힘들어 쉽사리 배우지 못하던 분들에게 도움이 될 수 있는 프로그램을 만들었다. 아직 중장비의 모든 기능은 구현하지 못하였지만, 필수적인 기능들은 구현해두어 체험에 큰 지장은 없을 것으로 판단된다. 본 프로그램은 VR을 활용하여 실제 크레인을 타고 있는 것과 같은 환경을 세팅함으로써 현실감과 생동감까지 구현해냈다고 생각한다.
 - 아쉬웠던 점은 사전지식과 대중 자료가 거의 없는 분야였기 때문에 주먹구구식으로 모든 수를 다 시도해보면서 진행했다는 것이다. 또한, 이번 프로젝트의 기간이 충분하지 않아 항만용 크레인 하나를 대상으로 프로그램을 구현하였지만, 우리가 잘 모르는 진입장벽이 높은 중장비들이 공사 현장에는 더 많다는 것이다. 진입장벽이 높은 중장비들에 대한 진입장벽을 낮추는 프로그램을 만들고자 한다면 충분한 사전 조사와 충분한 개발 기간이 주어져야 할 것이다.
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" colspan="2">
+        <img width="75%" height="75%" src="https://user-images.githubusercontent.com/60832219/211150593-6c960cfa-c6fd-47e4-8f32-dd14e62cb663.png"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        항구의 모습
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150595-1c51f969-dae7-4c72-bb53-7dd1a362c46a.gif"/>
+      </td>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150603-f170f264-1d1d-4a42-968f-7dd18fa34e09.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        움직이는 크레인의 모습
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150599-f9c440a3-577e-42f2-91a9-ddc71f5a73f7.gif"/>
+      </td>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150606-c0d02495-dc8d-4598-bea9-f6d9ac18e7bd.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        컨테이너를 잡는 모습
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150600-35d7c5cf-8c7f-435d-bf33-4d280f6e0b91.gif"/>
+      </td>
+      <td align="center">
+        <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60832219/211150611-f99562c0-451b-493a-b773-9f0a709fc0ba.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        컨테이너를 놓는 모습
+      </td>
+    </tr>
+  </table>
+</div>
