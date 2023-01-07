@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f2ead1342759865489703a15932d2b38
+timeCreated: 1543491793
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_Back_Wire1
+    100002: B_Back_Wire2
+    100004: B_Front_Wire1
+    100006: B_Front_Wire2
+    100008: B_HookBackEnd
+    100010: B_HookBody
+    100012: B_HookFrontEnd
+    100014: B_Left_Wire1
+    100016: B_Left_Wire2
+    100018: B_Right_Wire1
+    100020: B_Right_Wire2
+    100022: B_Root_CargoHook
+    100024: cargo_hook_LOD0
+    100026: cargo_hook_LOD1
+    100028: cargo_hook_LOD2
+    100030: cargo_hook_LOD3
+    100032: //RootNode
+    400000: B_Back_Wire1
+    400002: B_Back_Wire2
+    400004: B_Front_Wire1
+    400006: B_Front_Wire2
+    400008: B_HookBackEnd
+    400010: B_HookBody
+    400012: B_HookFrontEnd
+    400014: B_Left_Wire1
+    400016: B_Left_Wire2
+    400018: B_Right_Wire1
+    400020: B_Right_Wire2
+    400022: B_Root_CargoHook
+    400024: cargo_hook_LOD0
+    400026: cargo_hook_LOD1
+    400028: cargo_hook_LOD2
+    400030: cargo_hook_LOD3
+    400032: //RootNode
+    4300000: cargo_hook_LOD0
+    4300002: cargo_hook_LOD1
+    4300004: cargo_hook_LOD2
+    4300006: cargo_hook_LOD3
+    7400000: RaisedUp
+    7400002: Lowered
+    7400004: ExtendIn
+    7400006: ExtendOUT
+    9500000: //RootNode
+    13700000: cargo_hook_LOD0
+    13700002: cargo_hook_LOD1
+    13700004: cargo_hook_LOD2
+    13700006: cargo_hook_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RaisedUp
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 10.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Root_CargoHook
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookBackEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookFrontEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire2
+        weight: 1
+      - path: cargo_hook_LOD0
+        weight: 1
+      - path: cargo_hook_LOD1
+        weight: 1
+      - path: cargo_hook_LOD2
+        weight: 1
+      - path: cargo_hook_LOD3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lowered
+      takeName: Take 001
+      firstFrame: 13.8999996
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Root_CargoHook
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookBackEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookFrontEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire2
+        weight: 1
+      - path: cargo_hook_LOD0
+        weight: 1
+      - path: cargo_hook_LOD1
+        weight: 1
+      - path: cargo_hook_LOD2
+        weight: 1
+      - path: cargo_hook_LOD3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ExtendIn
+      takeName: Take 001
+      firstFrame: 2.20000005
+      lastFrame: 2.29999995
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Root_CargoHook
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookBackEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookFrontEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire2
+        weight: 1
+      - path: cargo_hook_LOD0
+        weight: 1
+      - path: cargo_hook_LOD1
+        weight: 1
+      - path: cargo_hook_LOD2
+        weight: 1
+      - path: cargo_hook_LOD3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ExtendOUT
+      takeName: Take 001
+      firstFrame: 9.19999981
+      lastFrame: 9.30000019
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Root_CargoHook
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Back_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Front_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookBackEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_HookFrontEnd
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Left_Wire2
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire1
+        weight: 1
+      - path: B_Root_CargoHook/B_HookBody/B_Right_Wire2
+        weight: 1
+      - path: cargo_hook_LOD0
+        weight: 1
+      - path: cargo_hook_LOD1
+        weight: 1
+      - path: cargo_hook_LOD2
+        weight: 1
+      - path: cargo_hook_LOD3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .0625
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

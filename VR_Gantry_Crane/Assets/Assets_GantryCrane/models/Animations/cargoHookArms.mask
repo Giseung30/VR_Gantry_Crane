@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cargoHookArms
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: B_Root_CargoHook
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Back_Wire1
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Back_Wire2
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Front_Wire1
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Front_Wire2
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_HookBackEnd
+    m_Weight: 1
+  - m_Path: B_Root_CargoHook/B_HookBody/B_HookFrontEnd
+    m_Weight: 1
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Left_Wire1
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Left_Wire2
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Right_Wire1
+    m_Weight: 0
+  - m_Path: B_Root_CargoHook/B_HookBody/B_Right_Wire2
+    m_Weight: 0
+  - m_Path: cargo_hook_LOD0
+    m_Weight: 0
+  - m_Path: cargo_hook_LOD1
+    m_Weight: 0
+  - m_Path: cargo_hook_LOD2
+    m_Weight: 0
+  - m_Path: cargo_hook_LOD3
+    m_Weight: 0

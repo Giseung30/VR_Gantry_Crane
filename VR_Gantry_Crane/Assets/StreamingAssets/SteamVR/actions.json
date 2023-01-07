@@ -1,0 +1,24 @@
+{
+  "actions": [
+    {
+      "name": "/actions/Joystick/in/LeftStick",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/Joystick/in/RightStick",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/Joystick/in/EssentialPose",
+      "type": "pose"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/Joystick",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [],
+  "localization": []
+}
