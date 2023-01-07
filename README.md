@@ -12,14 +12,6 @@
 + 도전학기제 II : 팀 프로젝트
 + 구성원 : 4명
 
-## ⚙ 개발 환경
-+ 개발 툴 : `Unity 2019.2.0f1`
-+ VR Headset : `Samsung HMD Odyssey`
-+ 3D 모델링 수정 : `3ds Max`
-+ 텍스처 수정 : `Adobe Photoshop`
-+ 오디오 제작 : `GoldWave`
-+ Version Control : `Tortoise SVN`
-
 ## ✏ 프로젝트 기획
 + 크레인을 어떠한 **용도**로 사용하는지 조사
 + 실제로 크레인이 어떠한 **물리적 원리**를 가지고 작동하는지 조사
@@ -28,3 +20,21 @@
 + 사용자의 조작에 따라 움직임을 제어하는 HMD와 컨트롤러로 **실제 장비 수준의 몰입감**을 줄 수 있도록 개발
 + 본 프로그램의 조작법을 쉽게 숙지할 수 있도록 **튜토리얼**을 따로 제작
 
+## ⚙ 개발 환경
++ 개발 툴 : `Unity 2019.2.0f1`
++ VR Headset : `Samsung HMD Odyssey`
++ 3D 모델링 수정 : `3ds Max`
++ 텍스처 수정 : `Adobe Photoshop`
++ 오디오 제작 : `GoldWave`
++ Version Control : `Tortoise SVN`
+
+## 📋 개발 내용
++ 크레인의 각 버튼들이 실제 VR 컨트롤러와 어떤 부분과 매칭이 되는지 **조사**
++ 크레인 오브젝트에 **Blend Tree** 애니메이션을 추가하여 Cargo Hook의 움직임을 구현
++ **Cargo Hook**이 컨테이너를 감지하기 위해, RigidBody 컴포넌트를 추가하여 **충돌을 감지**하는 방법을 사용
++ 컨테이너를 잡았을 때는 컨테이너가 Cargo Hook의 자식으로 설정
++ SteamVR 및 Windows Mixed Reality 활용하여 **Samsung HMD Odyssey** 연동
++ 크레인 조종석에 있는 조이스틱이 **컨트롤러**와 상호작용하여 움직일 수 있도록 구현
++ Asset Store를 통해 **항구 배경** 배치
++ **트럭 오브젝트**를 추가하여 컨테이너를 옮길 위치를 지정
++ 크레인 조작을 배울 수 있도록 **튜토리얼** Scene 작성
